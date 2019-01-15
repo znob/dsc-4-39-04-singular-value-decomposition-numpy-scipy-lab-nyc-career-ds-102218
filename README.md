@@ -1,11 +1,14 @@
 
-# Singular Value Decomposition with Numpy and SciPy
+# Singular Value Decomposition with Numpy and SciPy - Lab
 
 ## Introduction
 
 In this lab, we will build a basic version of low-rank matrix factorization engine for recommending movies in using Numpy and SciPy. The purpose of this lesson to help develop a sound understanding of how this process works in detail, before we implement it in PySpark. We will use a small movie recommendation dataset suitable for such experiments. The system should make not highly accurate, yet meaningful recommendations. 
 
 ## Objectives
+
+You will be able to:
+
 - Build a basic recommendation system using MovieLense 1 million movies dataset
 - Use Scipy and Numpy to build a recommendation system using matrix factorization. 
 
